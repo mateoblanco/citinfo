@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/citinfo/static/js/runtime~main.9832cdaa.js"
   },
   {
-    "revision": "b25146458dc93cd702a7",
-    "url": "/citinfo/static/js/main.b2514645.chunk.js"
+    "revision": "544ac6b3c54d932f0a43",
+    "url": "/citinfo/static/js/main.544ac6b3.chunk.js"
   },
   {
-    "revision": "63f22129a5ab0b8a476b",
-    "url": "/citinfo/static/js/2.63f22129.chunk.js"
+    "revision": "5a7552e1522a15afdc41",
+    "url": "/citinfo/static/js/2.5a7552e1.chunk.js"
   },
   {
-    "revision": "b25146458dc93cd702a7",
+    "revision": "544ac6b3c54d932f0a43",
     "url": "/citinfo/static/css/main.cb0b73b4.chunk.css"
   },
   {
-    "revision": "63f22129a5ab0b8a476b",
+    "revision": "5a7552e1522a15afdc41",
     "url": "/citinfo/static/css/2.5b984b46.chunk.css"
   },
   {
-    "revision": "8f472b580b1c03227d4ddb566f60adf6",
+    "revision": "7664fd3f4526266cb7d60765d618c667",
     "url": "/citinfo/index.html"
   }
 ];

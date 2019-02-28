@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/citinfo/static/css/2.5b984b46.chunk.css"
   },
   {
-    "revision": "627fa3a7db51131d0515a89b83c5de0b",
+    "revision": "be7b224eb588bbd2d39390d4ccfce61b",
     "url": "/citinfo/index.html"
   }
 ];
